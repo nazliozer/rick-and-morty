@@ -55,4 +55,5 @@ Home klasörünününde componentları anasayfa olacak şekilde düzenledim. Ayr
 - Web sitesinde **Show All** Seçildiğinde (Small Ekran): 
 <br><br> ![Web3](https://user-images.githubusercontent.com/77507954/206939556-caaba6ba-cc9a-4dd8-862c-adddd47aaebc.png)
 - Web sitesinde **Show All** Seçildiğinde (XSmall Ekran): 
-<br><br> ![Web4](https://user-images.githubusercontent.com/77507954/206939558-ee11b71f-4f35-4066-bc5c-817d2003ef92.png)
+<br><br> ![Mobile](https://user-images.githubusercontent.com/77507954/207102156-68fac455-1581-4cea-a064-af56f2a24893.jpeg =250x250)
+
