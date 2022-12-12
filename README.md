@@ -17,36 +17,35 @@ Assests klasöründe kullanılan fotoğrafları (logo) ve tema renklerini deği�
 Components klasörünün içinde web sitesindeki belirli bölümleri bileşenlere ayırarak oluşturdum.
 
 :open_file_folder: Button
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Button.js]()
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Button.scss]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Button.js](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/Button/Button.js)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Button.scss](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/Button/Button.scss)
 <br>:open_file_folder: Card
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Card.js]()
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Card.scss]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Card.js](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/Card/Card.js)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Card.scss](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/Card/Card.scss)
 <br>:open_file_folder: CharacterButton
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [CharacterButton.js]()
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [CharacterButton.scss]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [CharacterButton.js](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/CharacterButton/CharacterButton.js)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [CharacterButton.scss](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/CharacterButton/CharacterButton.scss)
 <br>:open_file_folder: Filters
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Filters.js]()
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Filters.scss]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Filters.js](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/Filters/Filter.js)
 <br>:open_file_folder: Footer
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Footer.js]()
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Footer.scss]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Footer.js](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/Footer/Footer.js)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Footer.scss](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/Footer/Footer.scss)
 <br>:open_file_folder: Header
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Header.js]()
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Header.scss]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Header.js](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/Header/Header.js)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [Header.scss](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/Header/Header.scss)
 <br>:open_file_folder: List
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [List.js]()
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [List.scss]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [List.js](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/List/List.js)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [List.scss](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/List/List.scss)
 <br>:open_file_folder: ShowMoreButton
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [ShowMoreButton.js]()
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [ShowMoreButton.scss]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [ShowMoreButton.js](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/ShowMoreButton/ShowMoreButton.js)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [ShowMoreButton.scss](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/ShowMoreButton/ShowMoreButton.scss)
 <br>:open_file_folder: StatusButton
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [StatusButton.js]()
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [StatusButton.scss]()
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [StatusButton.js](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/StatusButton/StatusButton.js)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: [StatusButton.scss](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/StatusButton/StatusButton.scss)
 
 ###   :open_file_folder: Home
 
-Home klasörünününde componentları anasayfa olacak şekilde düzenledim. Ayrıca içinde filtreleme için gerekli olan fonksiyonları ve karakterleri API den çekme işlemini de burada yazdım. (Card componentı için gerekli olan bölüm bilgileri için [Card.js]() 'de ayrı bir çekme işlemi gerçekleştirdim.)
+Home klasörünününde componentları anasayfa olacak şekilde düzenledim. Ayrıca içinde filtreleme için gerekli olan fonksiyonları ve karakterleri API den çekme işlemini de burada yazdım. (Card componentı için gerekli olan bölüm bilgileri için [Card.js](https://github.com/nazliozer/rick-and-morty/blob/master/src/components/Card/Card.js) 'de ayrı bir çekme işlemi gerçekleştirdim.)
 
 ## ScreenShoots
 - Web sitesinde **Show All** Seçildiğinde (Large Ekran): 
