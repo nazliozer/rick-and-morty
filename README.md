@@ -3,7 +3,9 @@ Bu repo Onedio Mülakatı için yapılan projeyi içerir.
 
 
  ## Getting Started
-React ve Tailwinds.css kullanarak API işlemlerinin yapıldığı örnek bir projedir.
+React, Tailwinds.css ve Axios kullanılarak yapılan örnek bir projedir. 
+<br>
+Projede kullanılan veriler [Rick and Morty](https://rickandmortyapi.com/documentation) APIsi kullanılarak elde edilmiştir.
 
 
 ## Layers
@@ -50,10 +52,21 @@ Home klasörünününde componentları anasayfa olacak şekilde düzenledim. Ayr
 ## ScreenShoots
 - Web sitesinde **Show All** Seçildiğinde (Large Ekran): 
 <br><br> ![image](https://user-images.githubusercontent.com/77507954/206938938-d5a3f863-faea-4ce6-b134-e7557a983917.png)
+<br><br>
 - Web sitesinde **Show All** Seçildiğinde (Medium Ekran): 
 <br><br> ![Web2](https://user-images.githubusercontent.com/77507954/206939549-527d4e87-b130-4e8b-909d-59176ce139c9.png)
+<br><br>
 - Web sitesinde **Show All** Seçildiğinde (Small Ekran): 
 <br><br> ![Web3](https://user-images.githubusercontent.com/77507954/206939556-caaba6ba-cc9a-4dd8-862c-adddd47aaebc.png)
+<br><br>
 - Web sitesinde **Show All** Seçildiğinde (XSmall Ekran): 
-<br><br> ![Mobile](https://user-images.githubusercontent.com/77507954/207102156-68fac455-1581-4cea-a064-af56f2a24893.jpeg =250x250)
+<br><br> ![Mobile](https://user-images.githubusercontent.com/77507954/207103151-2ad4b6a7-001d-4d1d-bcf6-033eeac8b290.png)
+<br><br>
+## Deployment
 
+Yaptığım projeyi Netlify üzerinde yayınladım.
+<br><br>
+&nbsp;&nbsp; :milky_way: [Rick and Morty](https://meek-cranachan-65ad99.netlify.app/)
+<br><br>
+## :pencil2:Authors
+* **Nazlı Hilal Özer** - [LinkedIn](https://www.linkedin.com/in/nazlihilalozer/)
