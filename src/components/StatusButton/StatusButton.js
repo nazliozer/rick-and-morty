@@ -12,7 +12,7 @@ export default class StatusButton extends Component {
   render() {
     return (
       <>
-        <div className="stat-button rounded-lg inline-flex items-center justify-evenly h-9 px-3 py-2 ">
+        <div className="stat-button rounded-lg inline-flex items-center justify-evenly h-9  py-2 ">
           <div
             className="rounded-full w-2.5 h-2.5 "
             style={{ backgroundColor: this.state.colors[this.props.name] }}
